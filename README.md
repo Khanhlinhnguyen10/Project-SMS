@@ -11,8 +11,8 @@
 > ## KEY FEATURES
 > ### 1. Authentication & Security
 > * **Role-Based Access Control:** Restricts features and data according to user permissions (Admin, Lecturer, Student).
-> * * **Account Provisioning:** Admins register new accounts with auto-generated Student/Lecturer IDs and default credentials.
-> * * **Session & Security Rules:** Auto-terminates sessions after 15 minutes of inactivity; includes password recovery and complexity-checked password changes
+> * **Account Provisioning:** Admins register new accounts with auto-generated Student/Lecturer IDs and default credentials.
+> * **Session & Security Rules:** Auto-terminates sessions after 15 minutes of inactivity; includes password recovery and complexity-checked password changes
 >
 > ### 2. User Management
 > * **Student Management:** Admins create, view, update, and delete student records with administrative statuses; students can update their own contact information.
