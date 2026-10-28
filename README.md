@@ -5,7 +5,7 @@
 
 ---
 ## 📌 PROJECT OVERVIEW
-**PROJECT: STUDENT MANAGEMENT SYSTEM** is a comprehensive web-based application designed to support academic and administrative operations for educational institutions. The system provides role-based access control for three main user groups: **Administrator**, **Lecturer**, and **Student**, ensuring streamlined academic operations
+**STUDENT MANAGEMENT SYSTEM** is a comprehensive web-based application designed to support academic and administrative operations for educational institutions. The system provides role-based access control for three main user groups: **Administrator**, **Lecturer**, and **Student**, ensuring streamlined academic operations
 
 ---
 ## ✨ MAIN FEATURES
