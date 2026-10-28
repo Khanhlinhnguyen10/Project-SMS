@@ -1,6 +1,6 @@
 # PROJECT: STUDENT MANAGEMENT SYSTEM
-> **Course:** Software Engineering
-> **Tech Stack:** Python, MySQL, HTML, CSS, JavaScript
+> **Course:** Software Engineering 
+> **Tech Stack:** Python, MySQL, HTML, CSS, JavaScript 
 > **Supported Tools:** Draw.io, SSMS, Visual Studio Code, Figma
 
 ---
@@ -21,7 +21,7 @@
 ### 3. Academic Management
 * **Curriculum Management:** Students view major curricula, compulsory/elective courses, credits, prerequisites, and automated completion status.
 * **Semester Management:** Admins configure academic semesters, registration windows, examination timelines, and linked section offerings.
-* * **Faculty & Course Management:** Admins manage faculties, course catalogs, and class sections (capacity, assigned lecturer, room, and timetable).
+* **Faculty & Course Management:** Admins manage faculties, course catalogs, and class sections (capacity, assigned lecturer, room, and timetable).
 
 ### 4. Grading & Attendance Management
 * **Attendance Tracking:** Lecturers record daily attendance for assigned sections with automated attendance rate calculations.
